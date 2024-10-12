@@ -28,11 +28,13 @@ The dashbord focuses on the following primary KPIs:
 -  **Power BI:** For data visualization and dashboard creation.
 -  **Excel:** For preprocessing and cleaning the data.
 
-
-
 ## Conclusion 
 The business is performing well, with over ₹1M in total sales. There are clear opportunities to focus on health-related products, particularly low-fat items. The insights gained from this dashboard can help Blinkit make more informed decisions about product offerings, marketing strategies, and expansion opportunities.
 
+
+
+
+![Blinkit Dashboard png](https://github.com/user-attachments/assets/3293f12f-8bb7-4f0c-aa72-d06264231410)
 
 
 
