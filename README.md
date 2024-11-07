@@ -5,8 +5,8 @@ Blinkit is one of India's leading online grocery delivery services known for its
 <br>
 ## Key Performance Indicators (KPIs)
 The dashbord focuses on the following primary KPIs:
-- **Total Sales:** Overall revenue generated from all items sold (₹18.59M)
-- **Average Sales:** Average revenue per sale (₹141)
+- **Total Sales:** Overall revenue generated from all items sold ($18.59M)
+- **Average Sales:** Average revenue per sale ($141)
 - **Number of Items:** Total count of different item sold (8523)
 
 ##  Features
@@ -18,7 +18,7 @@ The dashbord focuses on the following primary KPIs:
 -  **Outlet Type Comparison:** Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility.
 
 ## Key Insights
-- **Sales Performance:** Total revenue of ₹18.59M with an average sales value of ₹141 per item.
+- **Sales Performance:** Total revenue of $18.59M with an average sales value of $141 per item.
 - **Product Preference:** There is a high consumer preference for low-fat products, indicating a health-conscious market segment.
 - **Top-Selling Categories:** Fruits, vegetables, snacks, and household items are the most popular product categories.
 - **Geographic Distribution:** Tier 3 locations account for the highest sales, suggesting that growth strategies could focus on these areas.
@@ -29,12 +29,10 @@ The dashbord focuses on the following primary KPIs:
 -  **Excel:** For preprocessing and cleaning the data.
 
 ## Conclusion 
-The business is performing well, with over ₹1M in total sales. There are clear opportunities to focus on health-related products, particularly low-fat items. The insights gained from this dashboard can help Blinkit make more informed decisions about product offerings, marketing strategies, and expansion opportunities.
+The business is performing well, with over  $1M in total sales. There are clear opportunities to focus on health-related products, particularly low-fat items. The insights gained from this dashboard can help Blinkit make more informed decisions about product offerings, marketing strategies, and expansion opportunities.
 
 
-
-
-![Blinkit Dashboard png](https://github.com/user-attachments/assets/3293f12f-8bb7-4f0c-aa72-d06264231410)
+![dashbord](https://github.com/user-attachments/assets/f6e4846c-47ed-4179-9740-8c145743dcae)
 
 
 
